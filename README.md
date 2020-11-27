@@ -1,1 +1,1 @@
-# Course---HTML-CSS-and-Javascript-for-web-developers
+# Course -HTML,CSS and Javascript for web developers
